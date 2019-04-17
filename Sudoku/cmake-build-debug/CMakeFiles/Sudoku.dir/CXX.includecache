@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/cameron/Documents/Development/C++/Sudoku/main.cpp
+iostream
+-
+array
+-
+random
+-
+string
+-
+bits/stdc++.h
+-
+iterator
+-
+
