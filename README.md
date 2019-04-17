@@ -5,12 +5,13 @@
 Basic implementation of the classic game Sudoku. This game is completely console based
 
 # Implementations
-- Printing Sudoku like board (4/17/19)
+- Sudoku like board (4/17/19)
 - Difficulty by number input (4/17/19)
 - Completely playable (4/17/19)
 
 # Updates (to be)
 - Game win checking
 - Error handling
+- User input checking
 - Game loop
 - 2 player/ AI ability
